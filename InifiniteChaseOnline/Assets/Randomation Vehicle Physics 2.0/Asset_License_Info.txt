@@ -1,0 +1,50 @@
+All models and textures are public domain, created or this asset.
+
+ont: Roboto under the Apache license
+http://www.google.com/onts/specimen/Roboto
+http://www.apache.org/licenses/LICENSE-2.0.html
+
+Sounds are rom reesound.org, some o which are public domain, others are under either the Creative Commons Attribution license or the Creative Commons Sampling Plus license.
+
+http://creativecommons.org/publicdomain/zero/1.0/
+http://creativecommons.org/licenses/by/3.0/
+http://creativecommons.org/licenses/sampling+/1.0/
+
+
+Sound links:
+
+Engine: http://www.reesound.org/people/cr4sht3st/sounds/157144/
+
+Hover Engine: http://reesound.org/people/larval1977/sounds/38488/
+
+Boost: http://www.reesound.org/people/pengo_au/sounds/90143/
+http://www.reesound.org/people/tpalad/sounds/119902/
+http://www.reesound.org/people/snakebarney/sounds/138101/
+
+Hover Boost:
+http://reesound.org/people/LG/sounds/14585/
+http://reesound.org/people/ejortin/sounds/49693/
+http://reesound.org/people/vrodge/sounds/119499/
+
+Tire Screech: http://www.reesound.org/people/audible-edge/sounds/71739/
+http://www.reesound.org/people/audible-edge/sounds/71738/
+http://www.reesound.org/people/audible-edge/sounds/71737/
+http://www.reesound.org/people/audible-edge/sounds/71736/
+
+Reverse Gear: http://www.reesound.org/people/UncleSigmund/sounds/117119/
+
+Collisions: http://www.reesound.org/people/Halleck/sounds/121622/
+http://www.reesound.org/people/Halleck/sounds/121656/
+http://www.reesound.org/people/Halleck/sounds/121658/
+http://www.reesound.org/people/Halleck/sounds/121623/
+http://www.reesound.org/people/Halleck/sounds/121657/
+
+Tire Pop: http://www.reesound.org/people/Gnielba/sounds/82121/
+
+Rim Collision: http://www.reesound.org/people/dheming/sounds/177781/
+
+Rim Scrape: http://www.reesound.org/people/UncleSigmund/sounds/30640/
+
+Tire Air: http://reesound.org/people/Adam_N/sounds/164623/
+
+Glass Break: http://reesound.org/people/m1a2t3z4/sounds/112213/
