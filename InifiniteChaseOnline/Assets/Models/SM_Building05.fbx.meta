@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 76b9fb1d45b1645a2b02272768db0319
+timeCreated: 1452759764
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SM_Building5_Base
+    100004: SM_Building5_baseColumns
+    100006: SM_Building5_floor_1
+    100008: SM_Building5_floor_10
+    100010: SM_Building5_floor_2
+    100012: SM_Building5_floor_3
+    100014: SM_Building5_floor_4
+    100016: SM_Building5_floor_5
+    100018: SM_Building5_floor_6
+    100020: SM_Building5_floor_7
+    100022: SM_Building5_floor_8
+    100024: SM_Building5_floor_9
+    100026: SM_Building5_grp
+    100028: SM_Building5_Roof
+    100030: SM_Building5_Roof1
+    100032: SM_Building5_Roof2
+    400000: //RootNode
+    400002: SM_Building5_Base
+    400004: SM_Building5_baseColumns
+    400006: SM_Building5_floor_1
+    400008: SM_Building5_floor_10
+    400010: SM_Building5_floor_2
+    400012: SM_Building5_floor_3
+    400014: SM_Building5_floor_4
+    400016: SM_Building5_floor_5
+    400018: SM_Building5_floor_6
+    400020: SM_Building5_floor_7
+    400022: SM_Building5_floor_8
+    400024: SM_Building5_floor_9
+    400026: SM_Building5_grp
+    400028: SM_Building5_Roof
+    400030: SM_Building5_Roof1
+    400032: SM_Building5_Roof2
+    2300000: SM_Building5_Base
+    2300002: SM_Building5_baseColumns
+    2300004: SM_Building5_floor_1
+    2300006: SM_Building5_floor_10
+    2300008: SM_Building5_floor_2
+    2300010: SM_Building5_floor_3
+    2300012: SM_Building5_floor_4
+    2300014: SM_Building5_floor_5
+    2300016: SM_Building5_floor_6
+    2300018: SM_Building5_floor_7
+    2300020: SM_Building5_floor_8
+    2300022: SM_Building5_floor_9
+    2300024: SM_Building5_Roof
+    2300026: SM_Building5_Roof1
+    2300028: SM_Building5_Roof2
+    3300000: SM_Building5_Base
+    3300002: SM_Building5_baseColumns
+    3300004: SM_Building5_floor_1
+    3300006: SM_Building5_floor_10
+    3300008: SM_Building5_floor_2
+    3300010: SM_Building5_floor_3
+    3300012: SM_Building5_floor_4
+    3300014: SM_Building5_floor_5
+    3300016: SM_Building5_floor_6
+    3300018: SM_Building5_floor_7
+    3300020: SM_Building5_floor_8
+    3300022: SM_Building5_floor_9
+    3300024: SM_Building5_Roof
+    3300026: SM_Building5_Roof1
+    3300028: SM_Building5_Roof2
+    4300000: SM_Building5_Base
+    4300002: SM_Building5_baseColumns
+    4300004: SM_Building5_floor_1
+    4300006: SM_Building5_floor_2
+    4300008: SM_Building5_floor_3
+    4300010: SM_Building5_floor_4
+    4300012: SM_Building5_floor_5
+    4300014: SM_Building5_Roof
+    4300016: SM_Building5_floor_6
+    4300018: SM_Building5_floor_7
+    4300020: SM_Building5_floor_8
+    4300022: SM_Building5_Roof1
+    4300024: SM_Building5_floor_9
+    4300026: SM_Building5_floor_10
+    4300028: SM_Building5_Roof2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 200
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
